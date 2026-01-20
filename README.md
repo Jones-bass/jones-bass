@@ -58,21 +58,6 @@
   </a>
 </div>
 
-#
-
-<h3 align="center">My Stack ~</h3>
-
-<div style="text-align:center;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-</div>
-
-<hr>
-
 <div style="text-align:center; margin-top:80px;">
   <a href="https://github.com/Jones-bass">
     <img height="161em" src="https://github-readme-stats.vercel.app/api?username=Jones-bass&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -82,14 +67,23 @@
   </a>
 </div>
 
-<picture style="text-align:center; margin-top: 20px;">
+<div style="text-align:center; margin-top: 60px">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</div>
+
+<picture style="text-align:center; margin-top: 60px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake.svg">
 </picture>
 
 
-<div style="text-align: center; margin-top: 40px;">
+<div style="text-align: center; margin-top: 60px;">
   <h3>Tudo no tempo do <strong>Senhor</strong> 🙏</h3>
   <p>Jamais perder a <strong>Fé</strong> 🤲 </p>
 </div>
