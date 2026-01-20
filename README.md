@@ -12,15 +12,17 @@
 
 <p style="font-size:1.2em; line-height:1.6;">
   🤲 <strong>Ola Devs, me chamo Jones Souza!💜💜💜</strong><br>
-  🙋🏼‍♂️ Sou formado em Programação e tenho uma grande paixão por tecnologia.<br>
+  🙋🏼‍♂️ Sou formado em Programação e uma grande paixão por tecnologia.<br>
   📚 Sempre em busca de inovações e novos desafios.<br>
-  👀 Com uma visão focada nos meus objetivos, estou constantemente me aprimorando e me adaptando às novas metodologias de trabalho.<br>
-  🙏🏻 Acredito no poder da colaboração e no impacto positivo do trabalho em equipe.<br>
-  🙌 Em tudo o que faço, mantenho uma forte fé em Deus e acredito que tudo acontece no tempo certo.<br>
-  🤲 Além da minha carreira profissional, me dedico a criar projetos, praticar esportes e a passar momentos de qualidade com minha família. 🙏❤️<br>
+  👀 Focando nos meus objetivos, aprimorando e me adaptando às novas metodologias<br>
+  🙌 Mantenho fé em Deus e acredito que tudo acontece no tempo certo.<br>
+  🙏🏻 Além da minha carreira profissional, me dedico a criar projetos independentes<br>
+  🤲 Família base de tudo 🙏❤️<br>
 </p>
 
-<h3 align="center">💻 <strong>Technologies I Work With:</strong></h3>
+#
+
+<h3 align="center">💻 <strong>Tecnologias:</strong></h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
@@ -37,7 +39,9 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
 </div>
 
-<h3 align="center">🔗 <strong>Connect With Me:</strong></h3>
+
+
+<h3 align="center">🔗 <strong>Redes Sociais:</strong></h3>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://wa.me/5579999591921" target="_blank">
@@ -54,10 +58,19 @@
   </a>
 </div>
 
-<div style="text-align: center; margin-top: 40px;">
-  <h3>Tudo no tempo do <strong>Senhor</strong> 🙏</h3>
-  <p>Jamais perder a <strong>Fé</strong> 🤲 </p>
-  <p><strong>Fé em DEUS</strong> sempre 🙌</p>
+#
+
+<h3 align="center">My Stack ~</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 </div>
 
 <div style="text-align:center; margin-top:40px;">
@@ -69,14 +82,15 @@
   </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jones-bass/jones-bass/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div style="text-align: center; margin-top: 40px;">
+  <h3>Tudo no tempo do <strong>Senhor</strong> 🙏</h3>
+  <p>Jamais perder a <strong>Fé</strong> 🤲 </p>
 </div>
 
 <div style="text-align:center;">
