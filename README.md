@@ -3,24 +3,26 @@
   <img align="right" height="160" src="https://user-images.githubusercontent.com/85463497/164563521-e81ad66b-3421-4c90-96cb-dd39e7f46613.gif">
 </div>
 
-
-<div align="center">
+<div>
   <h1>
     Olá, Devs! 🚀 
-    <span style="font-size:14px;">Me chamo Jones Souza 😄</span>
   </h1>
 </div>
 
+<p style="font-size:1.2em; line-height:1.6;">💜 me chamo Jones Souza!</p>
 
+### 🙋‍♂️ Sobre mim
 
-## 🙋‍♂️ Sobre mim
+<p style="font-size:1.2em; line-height:1.6;">
+  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+  💻 Apaixonado por tecnologia<br>
+  📚 Sempre estudando e evoluindo<br>
+  🚀 Focado em crescimento profissional<br>
+  🙏 Fé, disciplina e constância<br>
+  ❤️ Família é a base de tudo<br>
+</p>
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 💻 Apaixonado por tecnologia  
-- 📚 Sempre estudando e evoluindo  
-- 🚀 Focado em crescimento profissional  
-- 🙏 Fé, disciplina e constância  
-- ❤️ Família é a base de tudo  
+#
 
 <h3 align="center">💻 <strong>Tecnologias:</strong></h3>
 
